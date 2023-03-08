@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/curoc/projects/lib-sources/assimpnew/assimp-master/code/res/assimp.rc
+revision.h
+C:/Users/curoc/projects/lib-sources/assimpnew/assimp-master/code/res/revision.h
+winresrc.h
+C:/Users/curoc/projects/lib-sources/assimpnew/assimp-master/code/res/winresrc.h
+winres.h
+C:/Users/curoc/projects/lib-sources/assimpnew/assimp-master/code/res/winres.h
+
+revision.h
+

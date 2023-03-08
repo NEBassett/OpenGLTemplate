@@ -1,0 +1,6 @@
+C:/Users/curoc/projects/lib-sources/glfw-3.3.6/lib/libglfw3.a
+C:/Users/curoc/projects/lib-sources/glfw-3.3.6/lib/cmake/glfw3/glfw3Config.cmake
+C:/Users/curoc/projects/lib-sources/glfw-3.3.6/lib/cmake/glfw3/glfw3ConfigVersion.cmake
+C:/Users/curoc/projects/lib-sources/glfw-3.3.6/lib/cmake/glfw3/glfw3Targets.cmake
+C:/Users/curoc/projects/lib-sources/glfw-3.3.6/lib/cmake/glfw3/glfw3Targets-noconfig.cmake
+C:/Users/curoc/projects/lib-sources/glfw-3.3.6/lib/pkgconfig/glfw3.pc
